@@ -725,6 +725,18 @@ $NomeDaPagina = "Home";
 						            <div class="carousel-inner" role="listbox">
 						                <div class="carousel-item py-5 active">
 						                    <div class="row">
+												<div class="col-sm-3 d-flex justify-content-center justify-content-sm-start mb-3">
+						                            <div class="card" style="width: 18rem;">
+													  <img src="images/obras/em_andamento/Maggiori.png" class="card-img-top" alt="Casa Blanca - Barra da Tijuca, RJ">
+													  <div class="card-body">
+													    <p class="card-text"><span style="color: #218ed0;">Localização:</span> Lagoa - RJ<br>
+													    <span style="color: #218ed0;">Cliente:</span> Lago Maggiori<br>
+														<span style="color: #218ed0;">Tipo de Obra:</span><br>
+														<span class="fa fa-camera" aria-hidden="true"></span>
+														<a id="Maggiori-s1" href="javascript:;">Recuperação de Fachada</p></a>
+													  </div>
+													</div>
+						                        </div>
 						                        <div class="col-sm-3 d-flex justify-content-center justify-content-sm-start mb-3">
 						                            <div class="card" style="width: 18rem;">
 													  <img src="images/obras/em_andamento/long_beach.jpg" class="card-img-top" alt="Long Beach">
