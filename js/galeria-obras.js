@@ -483,6 +483,22 @@ $("#nau-da-barra-s2").on('click', function() {
       });  
     });
 
+        // Lago Maggiori
+
+    $("#Maggiori-s1").on('click', function() {
+
+      $.fancybox.open([
+        {
+          src  : 'images/obras/em_andamento/Maggiori.png',
+        }
+      ], {
+        loop : true,
+        thumbs : {
+          autoStart : true
+        }
+      });  
+    });
+
         // LONG BEACH
 
     $("#long_beach-s1").on('click', function() {
