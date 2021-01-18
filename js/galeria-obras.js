@@ -512,11 +512,7 @@ $("#nau-da-barra-s2").on('click', function() {
       $.fancybox.open([
           {
             src  : 'images/nossas_obras/maggiori/recuperacao_fachada/maggiori_5.jpg',
-          },
-
-          {
-            src  : 'images/obras/em_andamento/Maggiori.png',
-          },          
+          },       
           
           {
             src  : 'images/nossas_obras/maggiori/recuperacao_fachada/maggiori_6.jpg',
