@@ -467,13 +467,35 @@ $("#nau-da-barra-s2").on('click', function() {
 
       $.fancybox.open([
         {
-          src  : 'images/nossas_obras/casa_blanca/recuperacao_fachada/01.jpg',
+          src  : 'images/nossas_obras/casa_blanca/recuperacao_fachada/12.jpg',
         },
         {
-          src  : 'images/nossas_obras/casa_blanca/recuperacao_fachada/02.jpg',
+          src  : 'images/nossas_obras/casa_blanca/recuperacao_fachada/13.jpg',
         },
         {
-          src  : 'images/nossas_obras/casa_blanca/recuperacao_fachada/03.jpg',
+          src  : 'images/nossas_obras/casa_blanca/recuperacao_fachada/14.jpg',
+        }
+      ], {
+        loop : true,
+        thumbs : {
+          autoStart : true
+        }
+      });  
+    });
+
+        // EDIFICIO GLADIOLO 
+
+    $("#ed_gladiolo-s1").on('click', function() {
+
+      $.fancybox.open([
+        {
+          src  : 'images/nossas_obras/ed_gladiolo/teste_de_percussao/15.jpg',
+        },
+        {
+          src  : 'images/nossas_obras/ed_gladiolo/teste_de_percussao/16.jpg',
+        },
+        {
+          src  : 'images/nossas_obras/ed_gladiolo/teste_de_percussao/17.jpg',
         }
       ], {
         loop : true,
@@ -488,9 +510,47 @@ $("#nau-da-barra-s2").on('click', function() {
     $("#Maggiori-s1").on('click', function() {
 
       $.fancybox.open([
-        {
-          src  : 'images/obras/em_andamento/Maggiori.png',
+          {
+            src  : 'images/nossas_obras/maggiori/recuperacao_fachada/maggiori_5.jpg',
+          },
+
+          {
+            src  : 'images/obras/em_andamento/Maggiori.png',
+          },          
+          
+          {
+            src  : 'images/nossas_obras/maggiori/recuperacao_fachada/maggiori_6.jpg',
+          },
+          
+          {
+            src  : 'images/nossas_obras/maggiori/recuperacao_fachada/maggiori_7.jpg',
+          },
+        
+      ], {
+        loop : true,
+        thumbs : {
+          autoStart : true
         }
+      });  
+    });
+
+        // Bela Vista
+
+    $("#Belavista-s1").on('click', function() {
+
+      $.fancybox.open([
+          {
+            src  : 'images/nossas_obras/bela_vista/recuperacao_fachada/02.jpg',
+          },     
+          
+          {
+            src  : 'images/nossas_obras/bela_vista/recuperacao_fachada/03.jpg',
+          },
+          
+          {
+            src  : 'images/nossas_obras/bela_vista/recuperacao_fachada/04.jpg',
+          },
+        
       ], {
         loop : true,
         thumbs : {
@@ -505,13 +565,13 @@ $("#nau-da-barra-s2").on('click', function() {
 
       $.fancybox.open([
         {
-          src  : 'images/nossas_obras/long_beach/recuperacao_fachada/01.jpg',
+          src  : 'images/nossas_obras/long_beach/recuperacao_fachada/09.jpg',
         },
         {
-          src  : 'images/nossas_obras/long_beach/recuperacao_fachada/02.jpg',
+          src  : 'images/nossas_obras/long_beach/recuperacao_fachada/10.jpg',
         },
         {
-          src  : 'images/nossas_obras/long_beach/recuperacao_fachada/03.jpg',
+          src  : 'images/nossas_obras/long_beach/recuperacao_fachada/11.jpg',
         }
       ], {
         loop : true,

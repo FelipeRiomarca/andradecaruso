@@ -727,6 +727,18 @@ $NomeDaPagina = "Home";
 						                    <div class="row">
 												<div class="col-sm-3 d-flex justify-content-center justify-content-sm-start mb-3">
 						                            <div class="card" style="width: 18rem;">
+													  <img src="images/obras/em_andamento/Belavista.jpg" class="card-img-top" alt="Bela Vista - Cachambi, RJ">
+													  <div class="card-body">
+													    <p class="card-text"><span style="color: #218ed0;">Localização:</span> Cachambi - RJ<br>
+													    <span style="color: #218ed0;">Cliente:</span> Bela Vista<br>
+														<span style="color: #218ed0;">Tipo de Obra:</span><br>
+														<span class="fa fa-camera" aria-hidden="true"></span>
+														<a id="Belavista-s1" href="javascript:;">Recuperação de Fachada</p></a>
+													  </div>
+													</div>
+						                        </div>
+												<div class="col-sm-3 d-flex justify-content-center justify-content-sm-start mb-3">
+						                            <div class="card" style="width: 18rem;">
 													  <img src="images/obras/em_andamento/Maggiori.png" class="card-img-top" alt="Casa Blanca - Barra da Tijuca, RJ">
 													  <div class="card-body">
 													    <p class="card-text"><span style="color: #218ed0;">Localização:</span> Lagoa - RJ<br>
@@ -739,7 +751,7 @@ $NomeDaPagina = "Home";
 						                        </div>
 						                        <div class="col-sm-3 d-flex justify-content-center justify-content-sm-start mb-3">
 						                            <div class="card" style="width: 18rem;">
-													  <img src="images/obras/em_andamento/long_beach.jpg" class="card-img-top" alt="Long Beach">
+													  <img src="images/obras/em_andamento/llong_beach.jpg" class="card-img-top" alt="Long Beach">
 													  <div class="card-body">
 													    <p class="card-text"><span style="color: #218ed0;">Localização:</span> Barra da Tijuca - RJ<br>
 													    <span style="color: #218ed0;">Cliente:</span> Long Beach<br>
@@ -768,7 +780,8 @@ $NomeDaPagina = "Home";
 													    <p class="card-text"><span style="color: #218ed0;">Localização:</span> Barra da Tijuca - RJ<br>
 													    <span style="color: #218ed0;">Cliente:</span> Ed. Gladiolo<br>
 														<span style="color: #218ed0;">Tipo de Obra:</span><br>
-														<span class="fa fa-camera" aria-hidden="true"></span> Teste de Percussão
+														<span class="fa fa-camera" aria-hidden="true"></span></span>
+														<a id="ed_gladiolo-s1" href="javascript:;">Teste de Percussão</p></a>
 													  </div>
 													</div>
 						                        </div>
