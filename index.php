@@ -44,7 +44,7 @@ $NomeDaPagina = "Home";
 
 		<!-- Main style sheet -->
 
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css?1">
 
 		<!-- responsive style sheet -->
 
