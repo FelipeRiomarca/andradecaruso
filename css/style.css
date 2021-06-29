@@ -5645,6 +5645,8 @@ img.img-sombra{
 
 .card-img-top{
   min-height: 220px;
+  max-height: 220px;
+  object-fit: cover;
   border-radius: 0;
 }
 
