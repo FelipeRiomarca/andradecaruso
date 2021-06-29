@@ -808,7 +808,7 @@ $NomeDaPagina = "Home";
 													    <span style="color: #218ed0;">Cliente:</span> Cond. Rosa da Praia<br>
 														<span style="color: #218ed0;">Tipo de Obra:</span><br>
 														<span class="fa fa-camera" aria-hidden="true"></span></span>
-														<a id="ccond_rosa_da_praia-s1" href="javascript:;">Teste de Percussão</p></a>
+														<a id="cond_rosa_da_praia-s1" href="javascript:;">Teste de Percussão</p></a>
 													  </div>
 													</div>
 						                        </div>
@@ -822,8 +822,10 @@ $NomeDaPagina = "Home";
 															<span style="color: #218ed0;">Cliente:</span> Ed. Avaré<br>
 															<span style="color: #218ed0;">Tipo de Obra:</span><br>
 															<span class="fa fa-camera" aria-hidden="true"></span></span>
-															<a id="" href="">Impermeabilização de Calhas</a>
-															<a id="" href="">Impermeabilização Caixa d’água</a>
+															<a id="" href="#">Impermeabilização de Calhas</a>
+															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<a id="" href="#">Impermeabilização Caixa d’água</a>
+															<span class="fa fa-camera" aria-hidden="true"></span></span>
 															<a id="ed_avare-s1" href="javascript:;">Impermeabilização Cisterna</a>
 														</p>
 													  </div>
@@ -839,10 +841,13 @@ $NomeDaPagina = "Home";
 															<span style="color: #218ed0;">Cliente:</span> Ed. Itanhandú<br>
 															<span style="color: #218ed0;">Tipo de Obra:</span><br>
 															<span class="fa fa-camera" aria-hidden="true"></span></span>
-															<a id="ed_itanhandu" href="">Reforma de Fachada</a>
-															<a id="ed_itanhandu" href="">Impermeabilização de Calhas e Telhado</a>
-															<a id="ed_itanhandu" href="">Impermeabilização Caixa d’água</a>
-															<a id="ed_itanhandu" href="">Impermeabilização Terraço Descoberto</a>
+															<a id="ed_itanhandu" href="#">Reforma de Fachada</a>
+															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<a id="ed_itanhandu" href="#">Impermeabilização de Calhas e Telhado</a>
+															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<a id="ed_itanhandu" href="#">Impermeabilização Caixa d’água</a>
+															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<a id="ed_itanhandu" href="#">Impermeabilização Terraço Descoberto</a>
 														</p>
 													  </div>
 													</div>
@@ -867,14 +872,14 @@ $NomeDaPagina = "Home";
 						                </div>
 						            </div>
 						        </div>
-						        <a class="carousel-control-prev text-dark" data-target="#myCarousel" role="button" data-slide="prev">
+						        <!-- <a class="carousel-control-prev text-dark" data-target="#myCarousel" role="button" data-slide="prev">
 					                <span class="fa fa-caret-left" aria-hidden="true"></span>
 					                <span class="sr-only">Previous</span>
 					            </a>
 					            <a class="carousel-control-next text-dark" data-target="#myCarousel" role="button" data-slide="next">
 					                <span class="fa fa-caret-right" aria-hidden="true"></span>
 					                <span class="sr-only">Next</span>
-					            </a>
+					            </a> -->
 						    </div>
 						  </div>
 						</div>
