@@ -781,7 +781,7 @@ $NomeDaPagina = "Home";
 													    <p class="card-text"><span style="color: #218ed0;">Localização:</span> Barra da Tijuca - RJ<br>
 													    <span style="color: #218ed0;">Cliente:</span> Ed. Gladiolo<br>
 														<span style="color: #218ed0;">Tipo de Obra:</span><br>
-														<span class="fa fa-camera" aria-hidden="true"></span></span>
+														<span class="fa fa-camera" aria-hidden="true"></span>
 														<a id="ed_gladiolo-s1" href="javascript:;">Teste de Percussão</p></a>
 													  </div>
 													</div>
@@ -794,7 +794,7 @@ $NomeDaPagina = "Home";
 													    <p class="card-text"><span style="color: #218ed0;">Localização:</span> Pechincha - RJ<br>
 													    <span style="color: #218ed0;">Cliente:</span> Mirante campestre<br>
 														<span style="color: #218ed0;">Tipo de Obra:</span><br>
-														<span class="fa fa-camera" aria-hidden="true"></span></span>
+														<span class="fa fa-camera" aria-hidden="true"></span>
 														<a id="cond_mirante_campestre-s1" href="javascript:;">Recuperação de Fachada</p></a>
 													  </div>
 													</div>
@@ -807,7 +807,7 @@ $NomeDaPagina = "Home";
 													    <p class="card-text"><span style="color: #218ed0;">Localização:</span> Barra da Tijuca - RJ<br>
 													    <span style="color: #218ed0;">Cliente:</span> Cond. Rosa da Praia<br>
 														<span style="color: #218ed0;">Tipo de Obra:</span><br>
-														<span class="fa fa-camera" aria-hidden="true"></span></span>
+														<span class="fa fa-camera" aria-hidden="true"></span>
 														<a id="cond_rosa_da_praia-s1" href="javascript:;">Teste de Percussão</p></a>
 													  </div>
 													</div>
@@ -817,15 +817,18 @@ $NomeDaPagina = "Home";
 						                            <div class="card" style="width: 18rem;">
 													  <img src="images/obras/em_andamento/ed_avare.jpg" class="card-img-top" alt="Edifício Avaré">
 													  <div class="card-body">
+													  <span class="fa fa-camera" aria-hidden="true"></span><a id="mirante-campeste-s1" href="javascript:;"> Impermeabilização de Calha </a><br>
+														<span class="fa fa-camera" aria-hidden="true"></span><a id="mirante-campeste-s2" href="javascript:;"> Impermeabilização de Reservatório</a><br>
+														<span class="fa fa-camera" aria-hidden="true"></span><a id="mirante-campeste-s3" href="javascript:;"> Reforma Interna</a></p>
 													    <p class="card-text">
 															<span style="color: #218ed0;">Localização:</span> Flamengo - RJ<br>
 															<span style="color: #218ed0;">Cliente:</span> Ed. Avaré<br>
 															<span style="color: #218ed0;">Tipo de Obra:</span><br>
-															<span class="fa fa-camera" aria-hidden="true"></span></span>
-															<a id="" href="#">Impermeabilização de Calhas</a>
-															<span class="fa fa-camera" aria-hidden="true"></span></span>
-															<a id="" href="#">Impermeabilização Caixa d’água</a>
-															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<span class="fa fa-camera" aria-hidden="true"></span>
+															<a id="" href="#">Impermeabilização de Calhas</a><br>
+															<span class="fa fa-camera" aria-hidden="true"></span>
+															<a id="" href="#">Impermeabilização Caixa d’água</a><br>
+															<span class="fa fa-camera" aria-hidden="true"></span>
 															<a id="ed_avare-s1" href="javascript:;">Impermeabilização Cisterna</a>
 														</p>
 													  </div>
@@ -840,13 +843,13 @@ $NomeDaPagina = "Home";
 															<span style="color: #218ed0;">Localização:</span> Copacabana - RJ<br>
 															<span style="color: #218ed0;">Cliente:</span> Ed. Itanhandú<br>
 															<span style="color: #218ed0;">Tipo de Obra:</span><br>
-															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<span class="fa fa-camera" aria-hidden="true"></span>
 															<a id="ed_itanhandu" href="#">Reforma de Fachada</a>
-															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<span class="fa fa-camera" aria-hidden="true"></span>
 															<a id="ed_itanhandu" href="#">Impermeabilização de Calhas e Telhado</a>
-															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<span class="fa fa-camera" aria-hidden="true"></span>
 															<a id="ed_itanhandu" href="#">Impermeabilização Caixa d’água</a>
-															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<span class="fa fa-camera" aria-hidden="true"></span>
 															<a id="ed_itanhandu" href="#">Impermeabilização Terraço Descoberto</a>
 														</p>
 													  </div>
@@ -861,7 +864,7 @@ $NomeDaPagina = "Home";
 															<span style="color: #218ed0;">Localização:</span> Recreio dos Bandeirantes - RJ<br>
 															<span style="color: #218ed0;">Cliente:</span> Ed. Villa Del Sol<br>
 															<span style="color: #218ed0;">Tipo de Obra:</span><br>
-															<span class="fa fa-camera" aria-hidden="true"></span></span>
+															<span class="fa fa-camera" aria-hidden="true"></span>
 															<a id="ed_vila_del_sol-s1" href="javascript:;">Recuperação Estrutural</a>
 														</p>
 													  </div>
