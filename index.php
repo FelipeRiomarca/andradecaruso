@@ -816,10 +816,7 @@ $NomeDaPagina = "Home";
 						                        <div class="col-sm-3 d-flex justify-content-center justify-content-sm-start mb-3">
 						                            <div class="card" style="width: 18rem;">
 													  <img src="images/obras/em_andamento/ed_avare.jpg" class="card-img-top" alt="Edifício Avaré">
-													  <div class="card-body">
-													  <span class="fa fa-camera" aria-hidden="true"></span><a id="mirante-campeste-s1" href="javascript:;"> Impermeabilização de Calha </a><br>
-														<span class="fa fa-camera" aria-hidden="true"></span><a id="mirante-campeste-s2" href="javascript:;"> Impermeabilização de Reservatório</a><br>
-														<span class="fa fa-camera" aria-hidden="true"></span><a id="mirante-campeste-s3" href="javascript:;"> Reforma Interna</a></p>
+													  <div class="card-body">													  
 													    <p class="card-text">
 															<span style="color: #218ed0;">Localização:</span> Flamengo - RJ<br>
 															<span style="color: #218ed0;">Cliente:</span> Ed. Avaré<br>
