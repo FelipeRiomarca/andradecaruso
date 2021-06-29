@@ -841,11 +841,11 @@ $NomeDaPagina = "Home";
 															<span style="color: #218ed0;">Cliente:</span> Ed. Itanhandú<br>
 															<span style="color: #218ed0;">Tipo de Obra:</span><br>
 															<span class="fa fa-camera" aria-hidden="true"></span>
-															<a id="ed_itanhandu" href="#">Reforma de Fachada</a>
+															<a id="ed_itanhandu" href="#">Reforma de Fachada</a><br>
 															<span class="fa fa-camera" aria-hidden="true"></span>
-															<a id="ed_itanhandu" href="#">Impermeabilização de Calhas e Telhado</a>
+															<a id="ed_itanhandu" href="#">Impermeabilização de Calhas e Telhado</a><br>
 															<span class="fa fa-camera" aria-hidden="true"></span>
-															<a id="ed_itanhandu" href="#">Impermeabilização Caixa d’água</a>
+															<a id="ed_itanhandu" href="#">Impermeabilização Caixa d’água</a><br>
 															<span class="fa fa-camera" aria-hidden="true"></span>
 															<a id="ed_itanhandu" href="#">Impermeabilização Terraço Descoberto</a>
 														</p>
